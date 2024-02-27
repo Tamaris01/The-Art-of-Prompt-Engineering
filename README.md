@@ -1,6 +1,6 @@
 # 🤖 Build a Chatbot to Analyze PDF Documents Using LLM 📄
 
-Author: Cognitive Class AI
+**Author**: Cognitive Class AI
 
 This project is a mentee assignment from the IBM Advance Al @ Infinite Learning Course, focusing on building a chatbot to analyze PDF documents using LL.M technology from CognitiveClass.ai.
 
