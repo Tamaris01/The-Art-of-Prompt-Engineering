@@ -17,4 +17,4 @@ This project is a mentee assignment from the IBM Advance Al @ Infinite Learning 
 - JavaScript
 - Flask
 
-Mari berkolaborasi dan berinovasi bersama! Selamat membuat kode! 😊
+Let's collaborate and innovate together! Happy coding! 😊
